@@ -65,6 +65,26 @@ p {
     }
 }
 
+@media (max-width: 500px) {
+    .iphone-dog-pic {
+        width: 16rem;
+    }
+    .title-h1 {
+        font-size: 3rem;
+        text-align: center;
+    }
+}
+
+@media (max-width: 400px) {
+    .iphone-dog-pic {
+        width: 14rem;
+    }
+    .title-h1 {
+        font-size: 2.5rem;
+        text-align: center;
+    }
+}
+
 @media (max-width: 991px) {
     .title-img-col {
         padding-top: 30px;
@@ -137,6 +157,18 @@ p {
 .press-image {
     width: 15%;
     margin: 20px;
+}
+
+@media (max-width: 500px) {
+    .testimonial-h2 {
+        font-size: 2.5rem;
+    }
+}
+
+@media (max-width: 400px) {
+    .testimonial-h2 {
+        font-size: 2rem;
+    }
 }
 
 
@@ -220,6 +252,17 @@ p {
     }
 }
 
+@media (max-width: 500px) {
+    .h2-cta {
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 400px) {
+    .h2-cta {
+        font-size: 2.5rem;
+    }
+}
 
 
 
